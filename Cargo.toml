@@ -1,0 +1,7 @@
+[package]
+name = "sternhalma"
+version = "0.1.0"
+authors = ["Victor Hsieh <victorhsieh@gmail.com>"]
+
+[dependencies]
+colored = "1.6"
